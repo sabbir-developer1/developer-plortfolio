@@ -71,6 +71,15 @@ p{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
+#full-stuck-developer{
+    border-left: 7px solid tomato;
+}
+#baby-web-developer{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
 
 
    
