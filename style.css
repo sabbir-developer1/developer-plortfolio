@@ -9,10 +9,13 @@ span{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 p{
     font-size: 25px;
 }
-section{
+.flexible-continer{
        display: flex;
 }
 .half-width{
@@ -47,6 +50,28 @@ section{
     background-position: right;
     padding-right: 6%;
 }
+.experienc-area{
+    padding-left: 5%;
+}
+.orange-color{
+    color:orange;
+    font-size: 20px;
+}
+.experienc-item{
+    box-shadow:10px 10px
+    40px
+    gray ;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50%;
+    padding-left: 20px;
+    border-radius: 10px; 
+}
+.experienc-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
 
    
 
