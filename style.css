@@ -19,10 +19,14 @@ section{
     width: 50%;
     padding-left:6%;
 
+
 }
 .half-width img{
     width: 75%;
-    padding-left: 5%;
+    padding-left: 2%;
+    padding-top: 5%;
+
+    
     
 }.dot{
     text-decoration: none;
@@ -37,3 +41,18 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 6%;
+}
+
+   
+
+    
+    
+
+
+
+
